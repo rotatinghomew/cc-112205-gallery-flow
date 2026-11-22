@@ -1,0 +1,6 @@
+gate,hall,link,other
+AO,A,road,outside
+AC,A,ab,B
+BC,B,ab,A
+BO,B,road,outside
+CO,C,road,outside
